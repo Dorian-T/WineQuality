@@ -4,7 +4,7 @@ Ce projet est inspiré d'un [TP Fidle](https://fidle.cnrs.fr/w3/). Il s'agit de 
 
 ## Données
 
-Le dataset est disponible sur le site de l'[UCI](https://archive.ics.uci.edu/dataset/186/wine+quality). Il contient 12 variables explicatives et une variable cible qui est la qualité du vin.
+Les datasets sont disponibles sur le site de l'[UCI](https://archive.ics.uci.edu/dataset/186/wine+quality). Ils contiennent 12 variables explicatives et une variable cible qui est la qualité du vin.
 
 Les variables explicatives sont les suivantes:
 
